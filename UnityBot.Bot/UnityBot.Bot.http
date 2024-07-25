@@ -1,0 +1,6 @@
+@UnityBot.Bot_HostAddress = http://localhost:5057
+
+GET {{UnityBot.Bot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

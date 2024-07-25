@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityBot.Bot", "UnityBot.Bot\UnityBot.Bot.csproj", "{549EDAAF-3BA1-4B24-835A-2562EC1AE00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549EDAAF-3BA1-4B24-835A-2562EC1AE00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549EDAAF-3BA1-4B24-835A-2562EC1AE00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549EDAAF-3BA1-4B24-835A-2562EC1AE00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549EDAAF-3BA1-4B24-835A-2562EC1AE00D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B898E202-4E2B-42F0-9D7E-B4C8A9B1373D}
+	EndGlobalSection
+EndGlobal
