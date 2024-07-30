@@ -1,4 +1,4 @@
-# Xashar
+# Xashar - @Hashar_uz_bot
 
 ![telegram-cloud-document-2-5280597032698927027](https://github.com/user-attachments/assets/6574ff40-bcbb-45cd-abdf-03d20e4da793)
 ![telegram-cloud-document-2-5280597032698927028](https://github.com/user-attachments/assets/1b2f207f-db8e-4df6-b915-67859980a5e8)
